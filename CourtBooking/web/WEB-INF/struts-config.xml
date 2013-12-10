@@ -32,6 +32,7 @@
         <forward name="checkIn" path="checkInTile"/>
         <forward name="annual-report" path="annualReportTile"/>
         <forward name="individual-report" path="individualReportTile"/>
+        <forward name="testForward" path="test-test"/>
       </global-forwards>
 
     <action-mappings>
